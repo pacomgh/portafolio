@@ -61,27 +61,7 @@ Hi! I'm Paco, in the past two years, I have been working with Flutter to develop
 
 ---
 
-### 4. Buddy Carpool
-> Carpool is a car sharing app where company employees register as drivers or passengers, drivers create routes, and passengers request to be picked up along that route. This have important new features
-
-- Sockets implementation
-- Push notifications
-- Real time driver tracking
-- Google maps and other google apis consumption
-- Role selection and diferent screens for each one role
-- Provider as state manager
-- Image and documents app upload
-- Launch whats app to text occupants
-- Calculate time to pick up occupants and time to finalize the route
-- Hybrid integration with mapbox apis
-- Implementing a driver navigation
-- Optimized performace and costs
-
-📂 [Ver más](projects/buddy/README.md)
-
----
-
-### 5. Yaab
+### 4. Yaab
 > Yaab is an Ecommerce app
 
 - Bug fixes during compilation(Android / iOS)
@@ -94,7 +74,7 @@ Hi! I'm Paco, in the past two years, I have been working with Flutter to develop
 🔗 [Demo o video](https://...)
 
 ---
-### 6. Mapbox Kit Navigation(Library)
+### 5. Mapbox Kit Navigation(Library)
 > Mapbox kit navigation is a library building using flutter and dart to simulate a navigation using mapbox, this create a route between few locations and use voice commands to speak instructions to arrive to your destination, while travel this route the last segment dissapear from the screen
 
 - Mapbox directions apis
@@ -113,6 +93,6 @@ Hi! I'm Paco, in the past two years, I have been working with Flutter to develop
 
 ## 🌐 Contacto
 
-📧 [paco.mgh@gmail.com]  
-🔗 [LinkedIn](https://linkedin.com/in/tuusuario)  
-💼 CV disponible bajo petición
+📧 [paco.mgh@gmail.com](mailto:paco.mgh@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/pacomgh)  
+💼 Request CV
